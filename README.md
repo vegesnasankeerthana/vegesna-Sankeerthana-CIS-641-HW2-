@@ -19,7 +19,7 @@ Description: Developed a user-friendly calendar application to help users monito
 - 💻 Passionate about coding and building new projects
 - 
 ### When you finally fix that bug after hours of debugging:
-![Fixing the bug meme](https://i.imgur.com/YOubfq3.jpg)
+![Fixing the bug meme](https://stacknatic.com/media/images/code-bug-meme.jpeg)
 
 *"It works on my machine!"*
 
